@@ -13,6 +13,6 @@ Utilicé varias arquitecturas RRN LSTM como simple, apilada y bidireccional de e
 
 Los datos de entrada son 48 valores correspondientes a la demanda de la energia eléctria y  las salidas tambien son 48 valores.
 
-Actualizacione:
+Actualizaciones:
 
 - Se volvio a realizar pruebas con el modelo lstm-2 del cual se obtubo un MAPE del 2.82%, se utilizo 96 datos de entrada y 48 valores de salida
